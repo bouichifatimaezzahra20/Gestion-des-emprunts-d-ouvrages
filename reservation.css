@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Playball&family=Poppins:ital,wght@0,300;0,400;0,600;0,700;1,200;1,500&family=Roboto+Condensed:wght@300;400;700&display=swap');
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #F1F4F9;
+  
+  }
+.listbtn{
+    background-color: #579ACB;
+    color: white;
+    width: 180px;
+   }
+   .Reservebtn{
+    border-color: #579ACB;
+    color: #579ACB;
+    width: 180px;
+
+   }
+   nav{
+    background-color: #272938;
+   }
+ 
